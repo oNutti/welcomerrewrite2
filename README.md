@@ -36,4 +36,4 @@ To run the Discord Slash Command Handler, follow these steps:
 
 ## Rights
 
-The Discord Slash Command Handler project is licensed under the ISC License. All rights for the project belong to Fangstorm.
+The Discord Slash Command Handler project is licensed under the ISC License. All rights for the project belong to Dreadbane.
